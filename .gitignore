@@ -1,0 +1,10 @@
+notebooks/catboost_info
+src/lib/__pycache__
+src/settings/__pycache__
+models/catboost/__pycache__
+.vscode
+catboost_info
+data
+mlruns
+models
+notebooks
